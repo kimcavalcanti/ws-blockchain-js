@@ -25,7 +25,9 @@
     "blockchain",
     "javascript",
     "js",
-    "nodejs"
+    "nodejs",
+    "solutis",
+    "workshop"
   ],
   "author": "Joaquim Cavalcanti",
   "license": "MIT",
