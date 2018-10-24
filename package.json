@@ -1,0 +1,35 @@
+{
+  "name": "ws-blockchain-js",
+  "version": "1.0.0",
+  "description": "Simple blockchain structure developed for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "cat solutis.txt && nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimcavalcanti/ws-blockchain-js.git"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "jest": "^23.6.0"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "js",
+    "nodejs"
+  ],
+  "author": "Joaquim Cavalcanti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimcavalcanti/ws-blockchain-js/issues"
+  },
+  "homepage": "https://github.com/kimcavalcanti/ws-blockchain-js#readme"
+}
