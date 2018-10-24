@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "cat solutis.txt && nodemon ./index.js"
+    "dev": "node solutis.js && nodemon ./index.js"
   },
   "repository": {
     "type": "git",

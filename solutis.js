@@ -1,3 +1,4 @@
+console.log(`
 SEJA BEM VINDO AO WORKSHOP
 
 .//////////        *//(                                                                            
@@ -12,3 +13,4 @@ SEJA BEM VINDO AO WORKSHOP
 ////////////.  //////                                                                              
 ///////////          .*                                                                            
 
+`);
