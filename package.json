@@ -15,10 +15,11 @@
     "babel-polyfill": "^6.26.0",
     "crypto-js": "^3.1.9-1"
   },
-  "devDependencies": { 
+  "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.4"
   },
   "keywords": [
     "blockchain",
